@@ -1,0 +1,17 @@
+{
+    "name": "pimolo/object-hydrator",
+    "description": "A simple php object hydrator. To not use in production (PoC)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rémi Andrieux",
+            "email": "contact@remiandrieux.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"Pimolo\\ObjectHydrator\\": "lib"}
+    },
+    "require": {}
+}
